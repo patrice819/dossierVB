@@ -1,0 +1,37 @@
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\bin\Debug\BUDGET.exe
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\bin\Debug\BUDGET.pdb
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\bin\Debug\BUDGET.xml
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.Homepage.resources
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\obj\x86\Debug\BUDGET.vbproj.GenerateResource.Cache
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\obj\x86\Debug\BUDGET.exe
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\obj\x86\Debug\BUDGET.xml
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\obj\x86\Debug\BUDGET.pdb
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\obj\x86\Debug\BUDGET.vbprojResolveAssemblyReference.cache
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.login.resources
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.Demande.resources
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.Gestion.resources
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.Resultat.resources
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.Rapport.resources
+C:\Users\tepitech\documents\visual studio 2010\Projects\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.verification.resources
+G:\Desktop\BUDGET\BUDGET\obj\x86\Debug\BUDGET.exe
+G:\Desktop\BUDGET\BUDGET\obj\x86\Debug\BUDGET.xml
+G:\Desktop\BUDGET\BUDGET\obj\x86\Debug\BUDGET.pdb
+G:\Desktop\BUDGET\BUDGET\bin\Debug\BUDGET.exe
+G:\Desktop\BUDGET\BUDGET\bin\Debug\BUDGET.pdb
+G:\Desktop\BUDGET\BUDGET\bin\Debug\BUDGET.xml
+G:\Desktop\BUDGET\BUDGET\obj\x86\Debug\BUDGET.vbprojResolveAssemblyReference.cache
+G:\Desktop\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.Homepage.resources
+G:\Desktop\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.login.resources
+G:\Desktop\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.Form3.resources
+G:\Desktop\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.Demande.resources
+G:\Desktop\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.Gestion.resources
+G:\Desktop\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.Resultat.resources
+G:\Desktop\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.Rapport.resources
+G:\Desktop\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.verification.resources
+G:\Desktop\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\Desktop\BUDGET\BUDGET\obj\x86\Debug\BUDGET.vbproj.GenerateResource.Cache
+G:\Desktop\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.employe.resources
+G:\Desktop\BUDGET\BUDGET\bin\Debug\Guna.UI.dll
+G:\Desktop\BUDGET\BUDGET\obj\x86\Debug\WindowsApplication1.Form2.resources
